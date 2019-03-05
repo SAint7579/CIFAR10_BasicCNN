@@ -8,7 +8,7 @@ link to dataset and documentaion: https://www.cs.toronto.edu/~kriz/cifar.html
 * DNN layers contain 1024 neurons with a drop_out layer with holding porbability of 0.5
 
 ## Accuracy
-On the test set, the accuracy is ~75%
+On the test set, the accuracy is ~70%
 <br>
 ### Accuracy test
 ![alt text](https://github.com/SAint7579/CIFAR10_BasicCNN/blob/master/accuracy_op.png)
